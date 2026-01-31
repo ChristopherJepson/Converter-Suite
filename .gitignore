@@ -1,0 +1,8 @@
+target/
+*.class
+.vscode/
+
+# Audio files
+*.wav
+*.ogg
+*.mp3
